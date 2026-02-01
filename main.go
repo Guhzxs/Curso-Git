@@ -3,8 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Hello Gusta!")
 }
 
-// TESTE!
-// TESTE n°2!
